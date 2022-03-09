@@ -4,6 +4,7 @@
   margin-top: 25px;
   margin-right: 90px;
 }
+
 .nav > div {
   color: #303134; /*Grey*/
   margin: 40px;
@@ -12,17 +13,20 @@
   font-family: 'Raleway', sans-serif;
   justify-content: flex-end
 }
+
 header {
 	display: flex;
 	background-color: #FFFFFF; /*white*/
 	justify-content: space-between;
 	align-items: center;
 }
+
 .logo {
 	width: 125px;
   margin-top: 25px;
   margin-left: 95px;
 }
+
 .container {
   height: 569px;
   background-image: url(../img/clip.png);
@@ -59,6 +63,7 @@ h3 {
   justify-content: space-between;
 
 }
+
 .box {
   width: 269.07px;
   height: 327.42px;
@@ -66,18 +71,18 @@ h3 {
   margin-bottom: 10px;
   line-height: 25px;
 }
+
 .head {
   font-size: 18px;
   color: #1A1A1B;
   font-family: 'Raleway', sans-serif;
   margin-bottom: 10px;
-
 }
+
 .p {
   font-size: 16px;
   color: #8D8D8D;
   font-family: 'Raleway', sans-serif;
-
 }
 
 .discover {
@@ -86,6 +91,7 @@ h3 {
   font-family: 'Raleway', sans-serif;
   padding-bottom: 5px;
 }
+
 .head1 {
   font-size: 26px;
   color: #1A1A1B;
