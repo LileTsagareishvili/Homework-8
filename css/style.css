@@ -1,0 +1,48 @@
+.nav {
+  display: flex;
+  background-color: #FFFFFF; /*white*/
+  margin-top: 25px;
+  margin-right: 90px;
+}
+.nav > div {
+  color: #303134; /*Grey*/
+  margin: 40px;
+  text-align: center;
+  /*line-height: 70px;*/
+  font-size: 15.74px;
+  font-family: 'Raleway', sans-serif;
+  justify-content: flex-end
+}
+header {
+	display: flex;
+	background-color: #FFFFFF; /*white*/
+	justify-content: space-between;
+	align-items: center;
+}
+.logo {
+	width: 125px;
+  margin-top: 25px;
+  margin-left: 95px;
+}
+.container{
+  height: 569px;
+  background-image: url(../img/clip.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  line-height: 120px;
+}
+h2 {
+  font-size: 78.74px;
+  color: #FFFFFF;
+  font-family: 'Arial', sans-serif;
+}
+h3 {
+  font-size: 18px;
+  color: #FFFFFF;
+  font-family: 'Raleway', sans-serif;
+}
